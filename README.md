@@ -9,7 +9,7 @@ Problem approach:
 2. Finding correlations or dependencies between variables and with output variable (loan status)
 2. Model to predict if an existing loan would default. (OBJ1_model1)
 3. Model to predict if a new loan can be granted to an existing customer. (OBJ2_model2)
-4. Use AutoML (Tpot, H2O, Google AutoML etc) for better modelling.
+4. Use AutoML (Tpot, H2O, Google AutoML etc). (code in the same file)
 5. Identify cross selling strategies
 6. Future Scope
 
